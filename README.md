@@ -7,8 +7,8 @@ Student
 Computer Engineering student with a strong interest in Embedded Systems and IoT Development. Experienced in developing real-time systems using ESP32, sensors, communication protocols and .NET technologies. Skilled in C/C++, C#, Python, and Go, with hands-on experience in UAV tracking systems, TCP/IP and UDP communication and SQL Server database integration Proficient in .NET Framework application development, including visualization, networking, and system integration. Passionate about designing reliable embedded and IoT solutions through practical engineering projects.
 
 * 🌍  I'm based in Nakhon Ratchasima,Thailand
-* 🖥️  See my portfolio at [LinkendIn](http://https://www.linkedin.com/in/kittiphong-cyber/)
-* ✉️  You can contact me at [kitiiphong064008@gmail.com](mailto:kitiiphong064008@gmail.com)
+* 🖥️  See my portfolio at [LinkendIn](https://www.linkedin.com/in/kittiphong-cyber/)
+* ✉️  You can contact me at [kittiphong064008@gmail.com](mailto:kitiiphong064008@gmail.com)
 * 🧠  I'm currently learning Rajamangala University of Technology Isan
 
 <p align="left">
